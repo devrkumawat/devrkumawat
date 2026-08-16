@@ -39,9 +39,3 @@ I am an MCA student and aspiring Full-Stack Developer skilled in MERN, JavaScrip
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devrkumawat&show_icons=true&theme=radium" alt="Dev's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devrkumawat&theme=radium" alt="Dev's GitHub Streak" width="48%" />
-</p>
